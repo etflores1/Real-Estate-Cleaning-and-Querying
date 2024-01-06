@@ -1,5 +1,5 @@
-## Project Description
-The US real estate market has been undergoing great changes in the recent years. Using **SQL**, I will manage a local database containing a [dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) from Kaggle which contains over 900,000 with information like price, acre lots, house size, and location about various listings on the market. In addition with this, I will provide a **Tableau** dashboard that will convey my analytical findings from a housing listing [dataset](https://www.kaggle.com/datasets/austinreese/usa-housing-listings) also from Kaggle.
+## Project Overview
+Proficiently utilized SQL to perform data extraction and cleansing on a [dataset](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset) containing tables with over 900,000 rows. Applied various querying techniques to access relevant data for analytical decision making. Leveraged Tableau for data visualization and dynamic dashboard creation in engaging reports from [dataset](https://www.kaggle.com/datasets/austinreese/usa-housing-listings). All datasets found through Kaggle.
 
 ![Housing Analysis Dashboard](https://github.com/etflores1/Real-Estate-Database-Cleaning-and-Querying/assets/110417575/9c114e92-d3b6-42c6-ab61-99259e9f12cd)
 
